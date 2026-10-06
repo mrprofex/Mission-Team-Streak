@@ -1,0 +1,25 @@
+.navbar {
+  display: flex;
+  justify-content: space-between; 
+  align-items: center;
+  background-color: red;
+  padding: 15px 30px;             
+  box-sizing: border-box;
+}
+
+
+.links {
+  display: flex;
+  gap: 20px; 
+}
+
+
+.logo {
+  color: white;
+  font-weight: bold;
+}
+
+.auth-links a {
+  color: blue;
+  text-decoration: underline;
+}
